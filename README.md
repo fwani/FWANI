@@ -1,4 +1,4 @@
-# Profile
+# FWANI
 ### Hi, I'm FWANI.
 
 - Git
