@@ -13,8 +13,8 @@
 
 - 💻 I’m currently working on a [Mobigen Co., Ltd.](http://www.mobigen.com)!
 - 📄 I’m currently learning [![swift](https://img.shields.io/badge/Swift-Apple-red?color=FA7343&logo=swift&style=flat-square)](https://swift.org), [![spark](https://img.shields.io/badge/Spark-Apache-red?color=E25A1C&logo=swift&style=flat-square)](https://spark.apache.org), [![Go](https://img.shields.io/badge/Go-Google-red?color=00ADD8&logo=go&style=flat-square)](https://golang.org)
-- 📆 2020 Goals: Contribute more to Open Source projects
-- 🌕 Fun fact: I love to play online game(LoL, Battleground) and read economic books.
+- 📆 2021 Goals: Develop and Deploy applications more than 4. Now I make lottery application.
+- 🌕 Fun fact: I'm doing Miracle Morning these days. I like running. Also I like reading books of economics, humanities and science.
 
 ### Connect with me:
 
