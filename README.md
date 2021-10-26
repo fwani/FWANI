@@ -70,8 +70,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="FWANI's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=fwani&show_icons=true&hide_border=true" />
-  <img align="left" alt="FWANI's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=seungfwani&show_icons=true&hide_border=true" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwani&count_private=true&show_icons=true&theme=highcontrast )
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungfwani&count_private=true&show_icons=true&theme=highcontrast )
 
 </details>
 
