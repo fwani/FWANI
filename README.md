@@ -6,7 +6,7 @@
   - for work : [![work git](https://img.shields.io/badge/seungfwani-git-green?color=1DA1F2&logo=github&style=flat-square)][git seungfwani]
 
 - Blog
-  - [![Tistory](https://img.shields.io/badge/fwani.tistory.com-blog-green?color=1DA1F2&logo=tistory&style=flat-square)][tistory]
+  - [![Tistory](https://img.shields.io/badge/fwani.tistory.com-blog-green?color=1DA1F2&logo=kakao&style=flat-square)][tistory]
 [![Naver Blog](https://img.shields.io/badge/blog.naver.com/ssh3997-blog-green?color=1DA1F2&logo=naver&style=flat-square)][naver blog]
 
 ## I'm a Developer!
